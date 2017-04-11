@@ -33,7 +33,7 @@ function draw() {
   noStroke();
   fill(255,20,3);
   y++;
-  ellipse( 100, y, 80, 80);
+  ellipse( x, y, 80, 80);
   
   
   
